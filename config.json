@@ -1,42 +1,42 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
-		"favicon": "favicon.ico"
+		"title": "辰ing",
+		"description": "辰ing",
+		"favicon": "辰.svg"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "辰ing",
+		"subtitle": "前后左右端攻城狮 ",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "辰",
+		"signature": "copy & paste & run",
 		"avatar": {
-			"link": "assets/avatar.jpg",
+			"link": "https://q1.qlogo.cn/g?b=qq&nk=2690223218&s=100",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.chening.cc/",
 				"icon": "bokeyuan",
 				"text": "Blog"
+			},
+			"third": {
+				"href": "https://nav.chening.cc/",
+				"icon": "fujindaohang",
+				"text": "nav"
 			},
 			"second": {
 				"href": "about/",
 				"icon": "xiaolian",
 				"text": "About"
 			},
-			"third": {
-				"href": "mailto:simon@tomotoes.com",
-				"icon": "email",
-				"text": "Email"
-			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/MoYiC",
 				"icon": "github",
 				"text": "Github"
 			}
