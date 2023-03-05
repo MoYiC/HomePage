@@ -39,6 +39,21 @@
 				"href": "https://github.com/MoYiC",
 				"icon": "github",
 				"text": "Github"
+			},
+			"fifth": {
+				"href": "http://tools.chening.cc/",
+				"icon": "tools",
+				"text": "tools"
+			},
+			"sixth": {
+				"href": "http://chat.chening.cc/",
+				"icon": "chat",
+				"text": "chat"
+			},
+			"seventh": {
+				"href": "https://faka.chening.cc/",
+				"icon": "shop",
+				"text": "shop"
 			}
 		}
 	}

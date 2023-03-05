@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "iconfont";
 	/* Project id 3267793 */
-	src: url('//at.alicdn.com/t/c/font_3267793_n6ald7qjt2.woff2?t=1675535442665') format('woff2'),
-		url('//at.alicdn.com/t/c/font_3267793_n6ald7qjt2.woff?t=1675535442665') format('woff'),
-		url('//at.alicdn.com/t/c/font_3267793_n6ald7qjt2.ttf?t=1675535442665') format('truetype'),
-		url('//at.alicdn.com/t/c/font_3267793_n6ald7qjt2.svg?t=1675535442665#iconfont') format('svg');
+	src: url('//at.alicdn.com/t/c/font_3267793_1x9tbw8b7q8.woff2?t=1677997831859') format('woff2'),
+		url('//at.alicdn.com/t/c/font_3267793_1x9tbw8b7q8.woff?t=1677997831859') format('woff'),
+		url('//at.alicdn.com/t/c/font_3267793_1x9tbw8b7q8.ttf?t=1677997831859') format('truetype'),
+		url('//at.alicdn.com/t/c/font_3267793_1x9tbw8b7q8.svg?t=1677997831859#iconfont') format('svg');
 }
 
 .iconfont {
@@ -13,6 +13,18 @@
 	font-style: normal;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shop:before {
+	content: "\e676";
+}
+
+.icon-chat:before {
+	content: "\e69d";
+}
+
+.icon-tools:before {
+	content: "\e661";
 }
 
 .icon-weixin:before {
@@ -130,6 +142,7 @@
 .icon-daohang:before {
 	content: "\eaf2";
 }
+
 
 .icon {
 	display: block;
